@@ -1,0 +1,1 @@
+i am shifting my focus to analysing stocks using machine learning. i want to also train models and make my own ML strategies. for all that i need data so i made a scraper on rediff stocks data site to get NSE and BSE daily gainers and losers as right now i am trying to build a momentum based strategy.
